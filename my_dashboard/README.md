@@ -56,7 +56,7 @@ Follow the steps below to clone the repository, install dependencies, and run th
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Satwikloka/My-dashboard.git 
+   git clone https://github.com/Satwikloka/satwik_accuknow_submission.git 
 2. **Navigate to the Project Directory**:
    ```bash
     cd my_dashboard 
