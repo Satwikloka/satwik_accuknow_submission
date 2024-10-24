@@ -6,6 +6,8 @@ Job Applied: Frontend_trainee.
 
 Initial round: Code assignment-clone CNAPP dashboard.
 
+Deployment link :https://my-dashboard-page.vercel.app/
+
 Welcome to the My Dashboard project! This is a dynamic and responsive dashboard page built using Vite+React, allowing users to add or remove widgets dynamically.
 
 ## Features
